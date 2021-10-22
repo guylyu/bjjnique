@@ -3,7 +3,7 @@ module.exports = {
   reactStrictMode: true,
 
   images: {
-    loader: "imgix",
-    path: "",
+    loader: 'imgix',
+    path: 'https://noop/',
   },
 }
